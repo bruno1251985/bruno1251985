@@ -33,6 +33,6 @@ The guest exercise catalogue loaded. Entering **agachamento** and selecting **In
 
 This is a focused UI check. It does not validate login, persistence, private account flows, the backend test suite, accessibility conformance, security or production readiness.
 
-For an inspectable Java example, see the [training-session domain sample](samples/training-session). That standalone example was prepared separately for the portfolio and is not the backend used by these screens.
+For an inspectable Java example, see the [training-session domain sample](https://github.com/bruno1251985/bruno1251985/blob/main/samples/training-session/README.md). That standalone example was prepared separately for the portfolio and is not the backend used by these screens.
 
 [Hercul V2 engineering case study](CASE_STUDIES.md#hercul-v2) · [Return to profile](https://github.com/bruno1251985)

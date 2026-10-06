@@ -6,7 +6,7 @@ These summaries describe personal projects at a high level. Application source r
 
 ## Hercul V2
 
-[Visual walkthrough of the Angular interface](VISUAL_WALKTHROUGH.md) · [Independent Java domain sample](samples/training-session)
+[Visual walkthrough of the Angular interface](VISUAL_WALKTHROUGH.md) · [Independent Java domain sample](https://github.com/bruno1251985/bruno1251985/blob/main/samples/training-session/README.md)
 
 **Focus:** full-stack development, incremental rebuilding and domain modelling.
 

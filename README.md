@@ -35,7 +35,7 @@ These summaries distinguish personal projects, academic exercises and team work.
 
 ## Code sample and visual walkthrough
 
-- **[Java domain sample](samples/training-session)** — a small, independently written training-session example with immutable state, validation, exact decimal calculations and 23 executable checks. Prepared for this portfolio with coding-assistant support; it is not private application source.
+- **[Java domain sample](https://github.com/bruno1251985/bruno1251985/blob/main/samples/training-session/README.md)** — a small, independently written training-session example with immutable state, validation, exact decimal calculations and 23 executable checks. Prepared for this portfolio with coding-assistant support; it is not private application source.
 - **[Hercul V2 visual walkthrough](VISUAL_WALKTHROUGH.md)** — screenshots of the existing Angular guest interface, its illustrative preview and a checked catalogue search/filter interaction.
 
 ## For recruiters
