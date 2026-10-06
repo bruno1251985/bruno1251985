@@ -2,9 +2,11 @@
 
 Engineering summaries by Bruno Aguiar · October 2026
 
-These summaries describe personal projects at a high level. Application source repositories remain private. They contain no source code, private user data, credentials or deployment configuration. Features and tooling below reflect project documentation; this portfolio review did not execute the applications' test suites or establish performance, usage or business metrics.
+These summaries describe personal projects at a high level. Application source repositories remain private. They contain no source code, private user data, credentials or deployment configuration. Features and tooling below reflect project documentation; the initial documentation review did not execute the applications' test suites or establish performance, usage or business metrics. A later focused guest-interface check is described in the linked visual walkthrough; it does not validate backend or private account flows.
 
 ## Hercul V2
+
+[Visual walkthrough of the Angular interface](VISUAL_WALKTHROUGH.md) · [Independent Java domain sample](samples/training-session)
 
 **Focus:** full-stack development, incremental rebuilding and domain modelling.
 
