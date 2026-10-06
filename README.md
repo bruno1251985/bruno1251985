@@ -12,6 +12,14 @@ I build personal applications around practical needs and use them to develop my 
 | **Oukio** | Personal finance and daily planning; Java, Spring Boot, Thymeleaf and PostgreSQL | [Case study](https://github.com/bruno1251985/bruno1251985/blob/main/CASE_STUDIES.md#oukio) · Private source |
 | **Hercul-site** | Public HTML website artifact | [Public repository](https://github.com/bruno1251985/Hercul-site) · [Website](https://hercul.pt) |
 
+## Academic work and exploration
+
+- **[DevSecOps](https://github.com/bruno1251985/bruno1251985/blob/main/ADDITIONAL_WORK.md#devsecops--secure-delivery-pipeline)** — individual academic work integrating Jenkins, tests, security analysis and policy checks around a Java application.
+- **[DevOps](https://github.com/bruno1251985/bruno1251985/blob/main/ADDITIONAL_WORK.md#devops--containerisation-and-environment-automation)** — academic team work on containerisation, Docker Compose, Podman and environment automation.
+- **[Jarvis V2](https://github.com/bruno1251985/bruno1251985/blob/main/ADDITIONAL_WORK.md#jarvis-v2--modular-assistant-exploration)** — personal exploration of a modular Java assistant; current implementation status needs further validation.
+
+These summaries distinguish personal projects, academic exercises and team work. The associated source repositories remain private.
+
 ## Engineering interests
 
 - Modelling business rules and separating them from HTTP and persistence concerns.
@@ -27,6 +35,6 @@ I build personal applications around practical needs and use them to develop my 
 
 ## For recruiters
 
-The [case studies](https://github.com/bruno1251985/bruno1251985/blob/main/CASE_STUDIES.md) explain the problems, implementation approaches, technical trade-offs and current scope of my projects. They offer starting points for a discussion about Java backend and full-stack development.
+The [case studies](https://github.com/bruno1251985/bruno1251985/blob/main/CASE_STUDIES.md) explain the problems, implementation approaches, technical trade-offs and current scope of my projects. The [academic work summaries](https://github.com/bruno1251985/bruno1251985/blob/main/ADDITIONAL_WORK.md) add examples of delivery pipelines, containers and architecture exploration. Together, they offer starting points for a discussion about Java backend and full-stack development.
 
 Hercul V2 and Oukio remain private. The portfolio shares engineering summaries without application source code or personal data. Private contributions are included as anonymised activity on this profile.
